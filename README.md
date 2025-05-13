@@ -3,6 +3,20 @@ Papers and Presentations
 
 Here are papers and presentations related to this project:
 
+Vito D’Orazio, Spencer Perkins, Margaret Smith, Patrick Brandt, Latifur Khan, Javier Osorio, Sultan Alsarra, Dagmar Heintze, Yibo Hu, Shreyas Meher (2025). “ConfliBERT: A Language for Political Conflict” Presented at West Virginia University Eberly AI Group. West Virginia University, Morgantown WV, April 25, 2025
+
+Spencer Perkins (2025) “ConfliBERT: Conflict Based Language Models and Military Exercise Data.” Poster presented at West Virginia Undergraduate Research Day. Charleston WV. March 25, 2025
+
+Vito D’Orazio, Patrick Brandt, Latifur Khan, Javier Osorio, Sultan Alsarra, Dagmar Heintze, and Marcus Sianan. (2025) “ConfliBERT: A Language Model For Political Science” Paper presented at the International Studies Association. Chicago IL, March 3 2025
+
+Vito D’Orazio, Patrick Brandt, Latifur Khan, Javier Osorio, Margaret Smith, and Spencer Perkins. (2025) Presented at West Virginia University Eberly College Research Office, Bridging Mountains Series. West Virginia University, Morgantown WV, January 31, 2025
+
+Sultan Alsarra, Parker Whitehead, Naif Alatrush, Luay Abdeljaber, Latifur Khan, Javier Osorio, Patrick Brandt, Vito D’Orazio. (2024). “Extractive Question Answering for Spanish and Arabic Political Text” International Conference on Social Computing, Behavioral-Cultural Modeling, & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS Conference). Carnegie Mellon University, Pittsburgh, PA. September 19 2024. Recipient of Best Paper Award
+
+Patrick Brandt, Latifur Khan, Vito D’Orazio, and Javier Osorio (2024) “Frameworks: Infrastructure for Political And Social Event Data Using Machine Learning” Poster presented at the National Science Foundation Principal Investigators Conference. Charlotte NC.  https://doi.org/10.6084/m9.figshare.26720437.v1
+
+Spencer Perkins (2024) “ConfliBERT: Conflict Based Language Models and Military Exercise Data.” Poster presented at West Virginia University Undergraduate Research Symposium. West Virginia University. Morgantown WV. Summer 2024. Runner-up for Best Poster in Social & Behavioral Sciences.
+
 Patrick T. Brandt, Vito D’Orazio, Latifur Khan, Yi-Fan Li, Javier Osorio & Marcus Sianan (2022). Conflict Forecasting with Event Data and Spatio-Temporal Graph Convolutional Networks, International Interactions, [doi:10.1080/03050629.2022.2036987](https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2036987)
 
 Vito D’Orazio & Yu Lin (2022) Forecasting conflict in Africa with automated machine learning systems, International Interactions, [doi:10.1080/03050629.2022.2017290](https://doi.org/10.1080/03050629.2022.2017290)
